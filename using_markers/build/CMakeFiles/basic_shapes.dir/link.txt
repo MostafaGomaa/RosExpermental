@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++   -O2 -g -DNDEBUG     -pthread CMakeFiles/basic_shapes.dir/src/basic_shapes.o  -o ../bin/basic_shapes  -L/opt/ros/fuerte/lib -rdynamic -lroscpp -lrostime -lrosconsole -lroscpp_serialization -lxmlrpcpp -Wl,-rpath,/opt/ros/fuerte/lib 

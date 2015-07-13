@@ -1,0 +1,16 @@
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/basic_shapes.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/clean-test-results.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/rosbuild_precompile.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/rospack_genmsg.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/rospack_gensrv.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/test.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/test-future.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/test-results.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/test-results-run.dir
+/home/praktikum/labprogramr_1/ros-workspace/using_markers/build/CMakeFiles/tests.dir
